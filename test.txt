@@ -21,3 +21,4 @@ dbo.Venue --场馆
 dbo.VenueInfo --场馆简介
 dbo.M_User --运营 系统用户
 dbo.MenuManage --菜单管理
+test
